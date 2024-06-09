@@ -16,7 +16,7 @@
 //_5Mutex.Excecute();
 
 //6- Uso de lock
-_6lock.Excecute();
-
+//_6lock.Excecute();
+Solution.Excecute();
 
 
